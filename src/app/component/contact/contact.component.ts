@@ -15,7 +15,7 @@ personName: string;
 
   ngOnInit(): void {
     // inicjalizacja
-    this.personName = 'Maciej Wiater';
+    this.personName = '';
     console.log('ngOnInit()');
   }
 
